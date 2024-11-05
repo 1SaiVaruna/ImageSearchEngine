@@ -51,3 +51,8 @@ form button{
     border-bottom-right-radius: 8px;
     cursor: pointer;
 }
+
+::placeholder{
+    color: #fff;
+    font-size: 18px;
+}
